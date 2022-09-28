@@ -11,4 +11,5 @@ One important change for machine translation in the deep learning era is that th
 
 ## Materials
 [Slides](https://owennju.github.io/archieve/NLPCC2022_tutorial.pdf)
+
 [Video](https://www.bilibili.com/video/BV1XP411J7VA)
