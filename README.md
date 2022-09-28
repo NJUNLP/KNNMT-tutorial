@@ -1,5 +1,5 @@
 #  K-Nearest Neighbor Machine Translation
-Tuturial@[NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), Sept 23, 2022
+Tutorial@[NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/), Sept 23, 2022
 
 ## Contributor
 [Shujian Huang](http://nlp.nju.edu.cn/huangsj/), Nanjing University, huangsj@nju.edu.cn
@@ -11,3 +11,4 @@ One important change for machine translation in the deep learning era is that th
 
 ## Materials
 [Slides](https://owennju.github.io/archieve/NLPCC2022_tutorial.pdf)
+[Video](https://www.bilibili.com/video/BV1XP411J7VA)
